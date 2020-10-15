@@ -1,0 +1,8 @@
+{
+  "name": "BudgetPug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "c4b95cfe"
+}
